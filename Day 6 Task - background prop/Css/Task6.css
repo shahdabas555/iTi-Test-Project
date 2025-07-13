@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container .navbar span {
+    color: rgb(39, 39, 152);
+}
+
+.container {
+    background-image: url('../images/WhatsApp\ Image\ 2025-07-13\ at\ 18.27.52_176f874d.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: sans-serif;
+}
+
+.main-address {
+    text-align: center;
+    color: rgb(40, 138, 224);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.first-address {
+    color: rgb(41, 159, 159);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.content {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contact-container {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 300px;
+}
+
+.contact-container .second-address {
+    color: rgb(24, 133, 133);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contact-container .contact-form .form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-section {
+    text-align: center;
+    background-color: rgb(32, 32, 189);
+}
